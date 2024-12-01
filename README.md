@@ -17,7 +17,7 @@ A classe `User` representa um sistema de Login de usuários com autenticação n
 
 ### Autor
 
-- João Pedro Timo Angelotti Pinto
+- João Vítor Massami Goya
 
 ### Versão
 
